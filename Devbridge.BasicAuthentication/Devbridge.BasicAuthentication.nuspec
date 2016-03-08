@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Devbridge.BasicAuthentication-forkedheader</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>devbridge team</authors>
     <owners>devbridge</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
